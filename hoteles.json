@@ -1,0 +1,93 @@
+[
+    {
+        "id": 231024084027,
+        "name": 5,
+        "surname": "test",
+        "typeIdentification": "DNI",
+        "numberIdentification": 787,
+        "email": "modifica@.com",
+        "type": "CORPO",
+        "country": "usa",
+        "city": "miami",
+        "phone": 1234,
+        "paymentMethod": "Efectivo"
+    },
+    {
+        "id": "231021051934",
+        "name": "3",
+        "surname": "test",
+        "typeIdentification": "dni",
+        "numberIdentification": "123",
+        "email": "test1@.com",
+        "type": "INDI",
+        "country": "arg",
+        "city": "caba",
+        "phone": "1234"
+    },
+    {
+        "id": "231021052220",
+        "name": "4",
+        "surname": "test",
+        "typeIdentification": "dni",
+        "numberIdentification": "456",
+        "email": "test4@.com",
+        "type": "CORPO",
+        "country": "arg",
+        "city": "caba",
+        "phone": "1234",
+        "deleted": true
+    },
+    {
+        "id": "231021052220",
+        "name": "4",
+        "surname": "test",
+        "typeIdentification": "dni",
+        "numberIdentification": "456",
+        "email": "test4@.com",
+        "type": "CORPO",
+        "country": "arg",
+        "city": "caba",
+        "phone": "1234",
+        "deleted": true
+    },
+    {
+        "id": 231024084027,
+        "name": 5,
+        "surname": "test",
+        "typeIdentification": "DNI",
+        "numberIdentification": 787,
+        "email": "modifica@.com",
+        "type": "CORPO",
+        "country": "usa",
+        "city": "miami",
+        "phone": 1234,
+        "paymentMethod": "Efectivo"
+    },
+    {
+        "id": 231024084027,
+        "name": 5,
+        "surname": "test",
+        "typeIdentification": "DNI",
+        "numberIdentification": 787,
+        "email": "modifica@.com",
+        "type": "CORPO",
+        "country": "usa",
+        "city": "miami",
+        "phone": 1234,
+        "paymentMethod": "Efectivo"
+    },
+    {
+        "id": "231025014828",
+        "name": "Examen",
+        "surname": "Hoy",
+        "typeIdentification": "DNI",
+        "numberIdentification": "123444444",
+        "email": "test5@xcxc.com",
+        "type": "CORPO",
+        "country": "usa",
+        "city": "dubai",
+        "phone": "1234",
+        "paymentMethod": "Efectivo",
+        "deleted": true
+    }
+]

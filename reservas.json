@@ -1,0 +1,213 @@
+[
+    {
+        "id": "231020102453",
+        "checkinDate": "23-10-20",
+        "checkoutDate": "23-10-22",
+        "type": "doble",
+        "cost": "100",
+        "guest": {
+            "id": "231018125603",
+            "name": "2",
+            "surname": "test",
+            "typeIdentification": "dni",
+            "numberIdentification": "12345678",
+            "email": "test1@.com",
+            "type": "INDI",
+            "country": "arg",
+            "city": "caba",
+            "phone": "1234",
+            "paymentMethod": "Efectivo"
+        },
+        "deleted": true,
+        "reasonModification": "bb1234"
+    },
+    {
+        "id": "231021052421",
+        "checkinDate": "23-10-20",
+        "checkoutDate": "23-10-25",
+        "type": "simple",
+        "cost": "100",
+        "guest": {
+            "id": "231018125603",
+            "name": "5",
+            "surname": "test",
+            "typeIdentification": "dni",
+            "numberIdentification": "789",
+            "email": "test5@.com",
+            "type": "CORPO",
+            "country": "usa",
+            "city": "miami",
+            "phone": "1234",
+            "paymentMethod": "Tarjeta"
+        },
+        "deleted": true
+    },
+    {
+        "id": "231021052436",
+        "checkinDate": "23-10-20",
+        "checkoutDate": "23-10-25",
+        "type": "simple",
+        "cost": "100",
+        "guest": {
+            "id": "231021052220",
+            "name": "4",
+            "surname": "test",
+            "typeIdentification": "dni",
+            "numberIdentification": "456",
+            "email": "test4@.com",
+            "type": "CORPO",
+            "country": "arg",
+            "city": "caba",
+            "phone": "1234",
+            "paymentMethod": "Efectivo"
+        },
+        "deleted": false
+    },
+    {
+        "id": "231021052512",
+        "checkinDate": "23-10-19",
+        "checkoutDate": "23-10-21",
+        "type": "suite",
+        "cost": "100",
+        "guest": {
+            "id": "231021051951",
+            "name": "4",
+            "surname": "test",
+            "typeIdentification": "dni",
+            "numberIdentification": "456",
+            "email": "test4@.com",
+            "type": "INDI",
+            "country": "arg",
+            "city": "caba",
+            "phone": "1234",
+            "paymentMethod": "Tarjeta"
+        },
+        "deleted": false
+    },
+    {
+        "id": "231021052600",
+        "checkinDate": "23-10-15",
+        "checkoutDate": "23-10-19",
+        "type": "suite",
+        "cost": "100",
+        "guest": {
+            "id": "231021051934",
+            "name": "3",
+            "surname": "test",
+            "typeIdentification": "dni",
+            "numberIdentification": "123",
+            "email": "test1@.com",
+            "type": "INDI",
+            "country": "arg",
+            "city": "caba",
+            "phone": "1234",
+            "paymentMethod": "Efectivo"
+        },
+        "deleted": false
+    },
+    {
+        "id": "231024084048",
+        "checkinDate": "23-10-15",
+        "checkoutDate": "23-10-19",
+        "type": "suite",
+        "cost": "100",
+        "guest": {
+            "id": "231021051934",
+            "name": "3",
+            "surname": "test",
+            "typeIdentification": "dni",
+            "numberIdentification": "123",
+            "email": "test1@.com",
+            "type": "INDI",
+            "country": "arg",
+            "city": "caba",
+            "phone": "1234",
+            "paymentMethod": "Efectivo"
+        },
+        "deleted": false
+    },
+    {
+        "id": "231024084105",
+        "checkinDate": "23-10-15",
+        "checkoutDate": "23-10-19",
+        "type": "suite",
+        "cost": "100",
+        "guest": {
+            "id": "231021051934",
+            "name": "3",
+            "surname": "test",
+            "typeIdentification": "dni",
+            "numberIdentification": "123",
+            "email": "test1@.com",
+            "type": "INDI",
+            "country": "arg",
+            "city": "caba",
+            "phone": "1234",
+            "paymentMethod": "Efectivo"
+        },
+        "deleted": false
+    },
+    {
+        "id": "231024084112",
+        "checkinDate": "23-10-15",
+        "checkoutDate": "23-10-19",
+        "type": "suite",
+        "cost": "100",
+        "guest": {
+            "id": "231021051934",
+            "name": "3",
+            "surname": "test",
+            "typeIdentification": "dni",
+            "numberIdentification": "123",
+            "email": "test1@.com",
+            "type": "INDI",
+            "country": "arg",
+            "city": "caba",
+            "phone": "1234",
+            "paymentMethod": "Efectivo"
+        },
+        "deleted": false
+    },
+    {
+        "id": "231024084220",
+        "checkinDate": "23-10-15",
+        "checkoutDate": "23-10-19",
+        "type": "suite",
+        "cost": "100",
+        "guest": {
+            "id": "231021051934",
+            "name": "3",
+            "surname": "test",
+            "typeIdentification": "dni",
+            "numberIdentification": "123",
+            "email": "test1@.com",
+            "type": "INDI",
+            "country": "arg",
+            "city": "caba",
+            "phone": "1234",
+            "paymentMethod": "Efectivo"
+        },
+        "deleted": false
+    },
+    {
+        "id": "231025015328",
+        "checkinDate": "23-10-15",
+        "checkoutDate": "23-10-25",
+        "type": "simple",
+        "cost": "1500",
+        "guest": {
+            "id": "231021052220",
+            "name": "4",
+            "surname": "test",
+            "typeIdentification": "dni",
+            "numberIdentification": "456",
+            "email": "test4@.com",
+            "type": "CORPO",
+            "country": "arg",
+            "city": "caba",
+            "phone": "1234"
+        },
+        "deleted": true,
+        "reasonModification": "bb1234"
+    }
+]
